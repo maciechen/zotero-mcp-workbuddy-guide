@@ -1,0 +1,13 @@
+{
+  "zotero": {
+    "command": "zotero-mcp",
+    "args": [],
+    "env": {
+      "ZOTERO_LOCAL": "true",
+      "ZOTERO_API_KEY": "{{ASK_USER:ZOTERO_API_KEY}}",
+      "ZOTERO_LIBRARY_ID": "{{ASK_USER:ZOTERO_LIBRARY_ID}}",
+      "ZOTERO_LIBRARY_TYPE": "user"
+    },
+    "disabled": false
+  }
+}

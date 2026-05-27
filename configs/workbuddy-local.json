@@ -1,0 +1,10 @@
+{
+  "zotero": {
+    "command": "zotero-mcp",
+    "args": [],
+    "env": {
+      "ZOTERO_LOCAL": "true"
+    },
+    "disabled": false
+  }
+}
