@@ -15,13 +15,9 @@
 
 ### 方式一：交给 AI 自动配置（推荐）
 
-```bash
-git clone https://github.com/maciechen/zotero-mcp-workbuddy-guide.git
-```
+在 WorkBuddy 中说：
 
-然后在 WorkBuddy 中说：
-
-> 读取这个仓库，帮我配置 Zotero MCP 本地模式
+> git clone https://github.com/maciechen/zotero-mcp-workbuddy-guide.git 读取这个仓库，帮我配置 Zotero MCP
 
 AI 会自动读取 `AI_BOOTSTRAP.md`，按流程检查环境、安装依赖、写入配置。
 
