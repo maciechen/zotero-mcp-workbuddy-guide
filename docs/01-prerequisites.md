@@ -12,7 +12,7 @@
 > 🤖 CHECK: 运行 `python --version`
 > 期望: 输出版本号 >= 3.10
 > 🤖 如果失败: 🤖 ASK 「需要安装 Python 3.10+，请访问 https://www.python.org/downloads/ 下载安装。
->  安装时务必勾选'Add python.exe to PATH'。
+>  安装时务必勾选'Add python.exe to PATH'，确保python已被添加进PATH。
 >  安装完成后请告诉我，我会继续检测。」
 
 **手动确认：**
@@ -44,7 +44,7 @@ pip show zotero-mcp-server
 | 语义搜索 | `pip install "zotero-mcp-server[semantic]"` | 向量相似度搜索（需 ChromaDB） |
 | PDF 处理 | `pip install "zotero-mcp-server[pdf]"` | PDF 大纲与 EPUB 批注 |
 | Scite 引用 | `pip install "zotero-mcp-server[scite]"` | 引用统计与撤稿预警 |
-| 全部功能 | `pip install "zotero-mcp-server[all]"` | 一次性安装所有扩展 |
+| 全部功能 | `pip install "zotero-mcp-server[all]"` | 一次性安装所有扩展（推荐） |
 
 ---
 
