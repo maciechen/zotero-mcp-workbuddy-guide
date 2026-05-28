@@ -21,7 +21,7 @@ pip install zotero-mcp-server
 # 4. 重启 WorkBuddy
 
 # 5. 验证
-#    在 WorkBuddy 中说：「搜索我的 Zotero 文献库中2026年发表的文章」
+#    在 WorkBuddy 中说：「测试 Zotero 连接」
 ```
 
 ---
@@ -44,7 +44,7 @@ pip install zotero-mcp-server
 # 4. 重启 WorkBuddy
 
 # 5. 验证
-#    在 WorkBuddy 中说：「搜索我的 Zotero 文献库中2026年发表的文章」
+#    在 WorkBuddy 中说：「测试 Zotero 连接」
 ```
 
 ---
