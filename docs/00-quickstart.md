@@ -4,7 +4,7 @@
 
 ---
 
-## 30 秒 · 本地模式
+## 本地模式
 
 ```bash
 # 1. 安装
@@ -21,16 +21,16 @@ pip install zotero-mcp-server
 # 4. 重启 WorkBuddy
 
 # 5. 验证
-#    在 WorkBuddy 中说：「搜索我的 Zotero 文献库」
+#    在 WorkBuddy 中说：「搜索我的 Zotero 文献库中2026年发表的文章」
 ```
 
 ---
 
-## 30 秒 · 云端模式
+## 云端模式
 
 ```bash
 # 1. 获取 API Key
-#    访问 https://www.zotero.org/settings/keys
+#    登录 https://www.zotero.org/settings/keys
 #    创建新 Key，勾选 "Allow library access"
 #    记下 API Key 和 User ID
 
@@ -44,7 +44,7 @@ pip install zotero-mcp-server
 # 4. 重启 WorkBuddy
 
 # 5. 验证
-#    在 WorkBuddy 中说：「搜索我的 Zotero 文献库」
+#    在 WorkBuddy 中说：「搜索我的 Zotero 文献库中2026年发表的文章」
 ```
 
 ---
